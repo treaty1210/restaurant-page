@@ -1,0 +1,1 @@
+(()=>{const e=new Image;e.src=Restaurant,content.appendChild(e);const n=document.createElement("div");n.classList.add("headline"),n.textContent="A restaurant on a green hill.",content.appendChild(n);const t=document.createElement("p");t.classList.add("info"),t.textContent="A wonderful restaurant on a green hill. When the skies are clear, you come here.",n.appendChild(t)})();
